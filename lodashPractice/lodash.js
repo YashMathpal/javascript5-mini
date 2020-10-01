@@ -71,7 +71,7 @@ var customers = [
   }
 ];
 
-// Create an array of all email addresses
+// Create an array of all the email addresses
 // first without using lodash's map (with property argument) method, then with it.
 
 //CODE HERE
@@ -146,5 +146,5 @@ var purchases = [
   }
 ];
 
-// First, group the purchases by company without lodash
+// First, group purchases by the company without lodash
 // then do it again using _.groupBy()
